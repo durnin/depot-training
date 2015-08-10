@@ -17,3 +17,15 @@ ruby:
   description: Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
   price: 49.50
   image_url: ruby.png
+
+python:
+  title: Programming in Python
+  description: Python is the best programming language ever existed. Someone says otherwise is crap.
+  price: 25.00
+  image_url: ruby.png
+
+cplus:
+  title: C++, Learning the Hard Way
+  description: C++ is for masters of the blasters. Unless you have a PhD it will impossible that you understand.
+  price: 100.00
+  image_url: ruby.png
